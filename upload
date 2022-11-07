@@ -1,7 +1,16 @@
 import os
 
 
-os.system("touch nx")
+os.system("git add *")
 
-os.system("touch nx")
+os.system("git commit -m \"mm\"")
+
+
+os.system("git push origin master")
+
+
+os.system("2010010201098364757")
+
+
+
 
